@@ -1,0 +1,42 @@
+html, body {margin: 0%; padding: 0%;}
+body   
+{  
+height: 125vh;  
+margin-top: 80px;  
+padding: 30px;  
+background-size: cover;  
+font-family: var(--font);  
+}  
+header {  
+background-color: black;  
+position: fixed;  
+left: 0;  
+right: 0;  
+top: 0px;  
+height: 50px;  
+display: flex;  
+align-items: center;  
+box-shadow: 0 0 25px 0 black;  
+color: white;
+}  
+header * {  
+display: inline;  
+}  
+header li {  
+margin: 20px;  
+}  
+header li a {  
+color: blue;  
+text-decoration: none;  
+}
+#head {
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 20px;
+    border-width: 5px;
+    border-color: grey;
+    border-style: solid;
+    margin-bottom: 10px;
+}

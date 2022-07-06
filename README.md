@@ -1,2 +1,2 @@
-# writteninc.github.io
-# This is the Written inc website.
+# OS
+The website for WrittenOS™. Built by WrittenOS Collabration
